@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
 
+#to input harcascading xml file
 faceCascade = cv2.CascadeClassifier('C:/Users/madwi/Downloads/haarcascade_frontalface_alt.xml')
 
 cap = cv2.VideoCapture(0)

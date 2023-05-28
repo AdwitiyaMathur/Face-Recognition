@@ -20,7 +20,7 @@ This repository contains code for face detection and recognition using OpenCV an
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/FaceRecognition.git
+   git clone https://github.com/your-username/Face-Recognition.git
    ```
 
 2. **Face Detection**: The `face_detection` folder contains multiple subfiles for face, smile, and eyes detection. You can use these files to perform face detection on images or video streams.
